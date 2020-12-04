@@ -5,7 +5,7 @@ The dataset related to bank customers of Customer id , name, creditscore , geogr
 # Independent variables for input layer
 # Stochastic gradient descent to minimize cost function
 # Rectifier(activation function) for hidden layers
-# Sigmoid for output layers
+# Sigmoid function for output layers
    
    we have to analyze why the customers are leaving and also implement Artificial Neural network to predict how many number of customers are going to leave in future . giving some insights to the bank what they have to do to stop the customers from leaving the bank. 
 
